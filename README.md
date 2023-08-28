@@ -8,7 +8,6 @@
 
 ![Data grid](image-1.png)
 
->  hãy hoàn thiện các chức năng (được bôi vàng)
->  các tham số được bảo toàn khi refresh
+>  hãy hoàn thiện các chức năng (được bôi vàng) và đảm bảo rằng các tham số được giữ lại khi refresh
 
-#Lưu ý: không khuyến khích sử dụng thư viện ngoài, không quan trọng css
+#Lưu ý: không khuyến khích sử dụng thư viện ngoài, việc css đúng theo hình minh họa là không quan trọng
